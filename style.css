@@ -38,7 +38,7 @@ h1 {
   background: #1e293b; /* リール背景（暗め） */
   border: 4px solid #38bdf8; /* 枠線をネオンブルーに */
   border-radius: 1rem; /* 角を丸くする */
-  /* overflow: hidden; ★窓からはみ出した絵柄を隠す（重要） */
+  overflow: hidden; /* ★窓からはみ出した絵柄を隠す（重要） */
   position: relative; /* 中の帯を absolute で動かすため */
 }
 
